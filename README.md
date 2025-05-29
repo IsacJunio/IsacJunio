@@ -4,6 +4,10 @@
 
 Me chamo Isac Junio Ferreira Lima, tenho 18 anos e sou natural de Belo Horizonte-MG. Estou cursando o ensino medio 3 ano, estou fazendo curso de javascript já pensando no curso de go.Sou apaixonado por tecnologia e tenho portfólio "[IJ-Portolio](https://isacjunio.github.io/IJ-Portfolio/)",onde mostro meus projetos.
 
+My name is Isac Junio Ferreira Lima, I'm 18 years old, and I'm from Belo Horizonte, Brazil. I'm currently in my third year of high school and taking a JavaScript course, already planning to study Go next. I'm passionate about technology and have a portfolio "[IJ-Portolio](https://isacjunio.github.io/IJ-Portfolio/)" where I showcase my projects.
+
+
+
 <p align="left">
     <a href="https://github.com/IsacJunio?tab=repositories&sort=stargazers">
         <img 
@@ -27,7 +31,7 @@ Me chamo Isac Junio Ferreira Lima, tenho 18 anos e sou natural de Belo Horizonte
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,prisma,express,js,react,vite,html5,css,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=mongodb,prisma,express,js,react,vite,html,css,git,github,linux" />
   </a>
 </p>
 
