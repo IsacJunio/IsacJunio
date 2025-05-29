@@ -25,6 +25,12 @@ Me chamo Isac Junio Ferreira Lima, tenho 18 anos e sou natural de Belo Horizonte
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
+
 <img 
     align="left" 
     alt="HTML"
